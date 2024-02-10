@@ -1,0 +1,4 @@
+mouse
+apple
+mouse
+dog
